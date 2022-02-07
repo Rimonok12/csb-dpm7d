@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://rimonok12.github.io/csb-dpm7d/static/css/main.8fbf53b7.chunk.css",
+    "main.js": "https://rimonok12.github.io/csb-dpm7d/static/js/main.c9320b00.chunk.js",
+    "main.js.map": "https://rimonok12.github.io/csb-dpm7d/static/js/main.c9320b00.chunk.js.map",
+    "runtime-main.js": "https://rimonok12.github.io/csb-dpm7d/static/js/runtime-main.58e82825.js",
+    "runtime-main.js.map": "https://rimonok12.github.io/csb-dpm7d/static/js/runtime-main.58e82825.js.map",
+    "static/css/2.20adf05c.chunk.css": "https://rimonok12.github.io/csb-dpm7d/static/css/2.20adf05c.chunk.css",
+    "static/js/2.2c3d1448.chunk.js": "https://rimonok12.github.io/csb-dpm7d/static/js/2.2c3d1448.chunk.js",
+    "static/js/2.2c3d1448.chunk.js.map": "https://rimonok12.github.io/csb-dpm7d/static/js/2.2c3d1448.chunk.js.map",
+    "index.html": "https://rimonok12.github.io/csb-dpm7d/index.html",
+    "static/css/2.20adf05c.chunk.css.map": "https://rimonok12.github.io/csb-dpm7d/static/css/2.20adf05c.chunk.css.map",
+    "static/css/main.8fbf53b7.chunk.css.map": "https://rimonok12.github.io/csb-dpm7d/static/css/main.8fbf53b7.chunk.css.map",
+    "static/js/2.2c3d1448.chunk.js.LICENSE.txt": "https://rimonok12.github.io/csb-dpm7d/static/js/2.2c3d1448.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58e82825.js",
+    "static/css/2.20adf05c.chunk.css",
+    "static/js/2.2c3d1448.chunk.js",
+    "static/css/main.8fbf53b7.chunk.css",
+    "static/js/main.c9320b00.chunk.js"
+  ]
+}

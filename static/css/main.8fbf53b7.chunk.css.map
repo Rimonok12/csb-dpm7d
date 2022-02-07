@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CACA,OACE,eACF,CACA,MACE,iBAAkB,CAElB,8DACF","file":"main.8fbf53b7.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n}\n.list1 {\n  text-align: left;\n}\n.head {\n  text-align: center;\n\n  background-image: linear-gradient(to right, red, orange, yellow, violet);\n}\n"]}
